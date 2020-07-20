@@ -1,5 +1,5 @@
 var renderUserBar = function () {
-  // 删除之前的按钮
+  // 删除之前的按钮 1
   $("ul.user-bar").children()[0].remove();
   $("ul.user-bar").children()[0].remove();
 
